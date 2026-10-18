@@ -2,6 +2,8 @@
 
 An original, free browser board game by Ray He: four delegates cross an unstable corridor while frontier AI agents disagree about consent, freedom, and survival.
 
+**[Play Frontier Protocol](https://rayhe.github.io/frontier-protocol/)** · [Complete rules](RULES.md) · [Release QA](QA.md)
+
 **Solo first.** Play Iona, the Compact council chair, against three scripted delegates. A hybrid local table mode lets four people make private contributions on one device; Iona still directs governance and council votes remain scripted. No API keys, accounts, paid services, analytics, or runtime dependencies.
 
 ## Play locally

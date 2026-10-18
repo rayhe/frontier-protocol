@@ -24,6 +24,8 @@ A separate reviewer inspected the implementation and simulated 3,000 initial gam
 
 Automated Chrome checks exercise Field manual modal and Escape, solo contribution/resolution, autosave reload/resume, confidential audit display, 390px layout without horizontal overflow, and all four private local handoffs. A full solo expedition is played through the actual controls to a definitive ending. Page errors fail the script. Desktop and mobile screenshots are retained in `screenshots/` and inspected visually.
 
+Release result: **14/14 engine tests passed** locally and in GitHub Actions. The browser suite passed against both the local server and the published HTTPS site at https://rayhe.github.io/frontier-protocol/. GitHub Pages reported `built`, HTTPS enforcement enabled. The complete browser expedition reached the cycle-eight ending without errors.
+
 ## Known limits
 
 - Only Chrome automation has been run; no broad assistive-technology or cross-browser certification.
